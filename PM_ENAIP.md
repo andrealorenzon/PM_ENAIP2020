@@ -1,21 +1,15 @@
 # Project Management
 
 Referente per il corso: g.fachin@enaipfvg.it
-Docente: Dalia Vodice (dalia.vodice@gmail.com) PM, Coach, Certificata
-
----
-
-Alessandro vende pietre, Andrea S. software supply chain, Patrizia Burlo, Giuseppe il naturalista, Irene maestra/edile, Giacomo, Paolo del Cantiere, Martina architetto, Claudio geometra, Loris "problema tuo" IKEA, Paolo P. geometra che fa strade.
-
-Microsoft Project, ProjectLibre, Primavera $$\leftarrow$$  software specifici per PM.
+Docente: Dalia Vodice (dalia.vodice@gmail.com) PM, Coach
 
 Legge 4/2013. C'è una norma UNI per un registro, con esame, per diventare PM, associazione PMI (PM Institute) di Philadelphia, che accredita.  Seguiremo lo standard PMBOK (Project Management Body of Knowledge) che dà qualifica di PMP (Project Manager Professional)
 
 ### Expectation Alignment
 
-Post it con cosa ognuno si aspetta dall'insegnante. Serve ad evitare che alla fine qualcuno dica "mi aspettavo una cosa diversa" a fine progetto. $$\rightarrow$$ "*in / out of scope*". Vengono accettati o meno dallo speaker.
+S'è allestita una tabella. Ad ognuno è stato chiesto di scrivere su un post it con cosa ognuno si aspetta dall'insegnante. Serve ad evitare che alla fine qualcuno dica "mi aspettavo una cosa diversa" a fine progetto. $$\rightarrow$$ "*in / out of scope*". Vengono accettati o meno dallo speaker.
 
-Lo speaker fa le sue richieste: trasparenza, sincerità, gruppo, condivisione tempestiva, e divertimento.
+Dalia fa le sue richieste: trasparenza, sincerità, gruppo, condivisione tempestiva, e divertimento.
 
 Ognuno dichiara infine cosa ognuno si aspetta dai colleghi, principalmente condivisione e interazione.
 
@@ -27,7 +21,7 @@ A volte conviene presentarsi come PM, a volte dicendo "fornisco strumenti per la
 
 ## Determinazione degli obiettivi
 
-Almeno 2 ma meglio 4 medaglie? **Gold plating**: mi hai detto 2 ma io te ne farò 4.  Ci sarà sempre disallineamento tra quello che vuole il cliente e quello che offri tu come PM. Se dobbiamo massimizzare un risultato, meglio decidere una soglia di accettabilità, sia come risultato sia come tempi o risorse. In caso di più scadenze possibili (piano A, piano B, ecc.), valutare se comunicare il worst case, e poi sorprendere.
+Alle olimpiadi,  cosa chiederà come obiettivo Usain Bolt? Almeno 2 ma meglio 4 medaglie? **Gold plating**: "mi hai detto 2 ma io te ne farò avere 4".  In questo modo ci sarà sempre disallineamento tra quello che vuole il cliente e quello che offri tu come PM. Se dobbiamo massimizzare un risultato, meglio decidere una soglia di accettabilità, sia come risultato sia come tempi o risorse. In caso di più scadenze possibili (piano A, piano B, ecc.), valutare se comunicare il worst case, e poi sorprendere.
 
 La comunicazione, e gli stakeholder stessi sono delle risorse.  
 
@@ -35,11 +29,11 @@ La comunicazione, e gli stakeholder stessi sono delle risorse.
 
 *"Iniziativa temporanea, intrapresa per creare un prodotto, un servizio o un risultato con caratteristiche di unicità." (PMBok)*
 
-* Temporaneità
-* Unicità (nuovo, innovativo)
-* Elaborazione progressiva (idea che viene cresce progressivamente, acquisisce conoscenza in fieri)
+* **Temporaneità**
+* **Unicità** (nuovo, innovativo)
+* **Elaborazione progressiva** (idea che viene cresce progressivamente, acquisisce conoscenza in fieri)
 
-Un processo ha un input, che viene trasformato in un output. Un progetto invece non sa all'inizio quale sia l'input, e il modo con cui trasformeremo verrà sistemato in corso d'opera. Non è routine, è *route*.
+Un processo ha un **input**, che viene trasformato in un **output**. Di un progetto invece non si sa completamente all'inizio quale sarà l'input, e il modo con cui lo trasformeremo in output verrà adattato in corso d'opera. Non è routine, è *route*.
 
 Un **programma** è un gruppo di progetti, sottoprogrammi e attività collegati e gestiti in modo coordinato al fine di ottenere benefici, non possibili tramite la gestione individuale di un singolo progetto.
 
@@ -47,9 +41,9 @@ Un **portfolio** è un insieme di programmi, progetti e operazioni per raggiunge
 
 ### Complesso vs complicato
 
-Complicato: cum plica, si piega e si ripiega fino a singoli componenti molto semplici.
+Complicato: *cum plica*, si piega e si ripiega fino a singoli componenti molto semplici.
 
-Complesso: cum plexus (nodo). La difficoltà si osserva nell'interezza del sistema. Le relazioni tra i singoli elementi pesano di più dei singoli elementi.
+Complesso: *cum plexus* (nodo). La difficoltà si osserva nell'interezza del sistema. Le relazioni tra i singoli elementi pesano di più dei singoli elementi.
 
 La **complessità** di un progetto:
 
@@ -59,19 +53,19 @@ La **complessità** di un progetto:
 
 ## Il Project Management e il PM
 
-Il PMng è **un'applicazione** di *conoscenze, abilità, strumenti e tecniche*, per assicurare il **raggiungimento di obiettivi**, attraverso **la realizzazione** di deliverables che soddisfino le **esigenze** degli stakeholders. Senza la soddisfazione misurabile dell'esigenza il progetto, anche con le deliverables consegnate, non è proprio raggiunto.
+Il Project Management è **un'applicazione** di *conoscenze, abilità, strumenti e tecniche*, per assicurare il **raggiungimento di obiettivi**, attraverso **la realizzazione** di deliverables che soddisfino le **esigenze** degli stakeholders. Senza la soddisfazione misurabile dell'esigenza il progetto, anche con le deliverables consegnate, non è proprio raggiunto.
 
-Sta al PM scavare e fare sufficienti domande allo sponsor per capire. Anche la quantità di comunicazione e le soddisfazioni interpersonali sono da considerare. Il 90% del tempo del PM è devoluto in **comunicazione**, anche con strumenti, e la mancanza di comunicazione è uno dei principali fattori di fallimento di un progetto. 
+Sta al PM scavare e fare sufficienti domande allo *sponsor* per capire. Anche la quantità di comunicazione e le soddisfazioni interpersonali sono da considerare. Il 90% del tempo del PM è devoluto in **comunicazione**, anche con strumenti, e la mancanza di comunicazione è uno dei principali fattori di fallimento di un progetto. 
 
-Il Proj. Manager è chi viene **incaricato dall'organizzazione** di guidare il gruppo responsabile per il raggiungimento dagli obiettivi. Ha la responsabilità di **soddisfare le esigenze** delle attività, del gruppo e dei singoli obiettivi.
+Il Project Manager è chi viene **incaricato dall'organizzazione** di guidare il gruppo responsabile per il raggiungimento dagli obiettivi. Ha la responsabilità di **soddisfare le esigenze** delle attività, del gruppo e dei singoli obiettivi.
 
-**Pro tip: se vieni nominato PM, fatti investire pubblicamente davanti a tutto il gruppo, per avere autorevolezza.**
+**Pro tip: se vieni nominato PM, fatti investire pubblicamente davanti a tutto il gruppo, per avere autorevolezza sufficiente a gestirli.**
 
 Il PM lavora con il team e altri stakeholder. Bilancia
 
-* capacità tecniche  di PM
-* capacità interpersonali (soft skills, empatia)
-* capacità concettuali (astrazione, immaginazione, visione strategica).
+* capacità **tecniche**  di PM
+* capacità **interpersonali** (soft skills, empatia)
+* capacità **concettuali** (astrazione, immaginazione, visione strategica).
 
 Il PM lavora sempre con vista a volo d'uccello. E' più importante la visione d'insieme che di dettaglio. A volte capita di dover anche fare delle cose. Bisogna farle con attenzione, isolando le attività in momenti separati dal lavoro da PM.
 
@@ -79,11 +73,11 @@ Il PM lavora sempre con vista a volo d'uccello. E' più importante la visione d'
 
 Nasce negli Stati Uniti tra gli anni '60 e la metà anni '80 in ambito aerospaziale, infrastrutture, e in ambito militare. Diventa poi trasversale fino agli inizi degli anni '90, e infine si orienta al business, fino ad oggi.
 
-Progetto declina in inglese sia come "project" (gestione di una commessa) che come "design" (progettazione di un lato tecnico, es. impianto elettrico).
+Progetto declina in inglese sia come "*project*" (gestione di una commessa) che come "*design*" (progettazione di un lato tecnico, es. impianto elettrico).
 
 ## Il PMO: Project Management Office
 
-E' una **struttura organizzativa** che standardizza i processi di governance legati al progetto e facilita la condivisione delle risorse, metodologie, strumenti e tecniche.
+E' una **struttura organizzativa** che standardizza i processi di *governance* legati al progetto e facilita la condivisione delle risorse, metodologie, strumenti e tecniche.
 
 # Il ciclo di vita del progetto
 
@@ -130,7 +124,7 @@ In questa fase i costi effettivi sono bassi.
 
 Definiamo i dettagli, cosa va fatto (WBS, ecc). Definiamo il budget, assegnamo le responsabilità.  Definiamo gli indicatori di monitoraggio e controllo (KPI, Key Performance Indicators).
 
-I costi iniziano ad impennare.
+I costi iniziano ad aumentare, in modo non lineare.
 
 #### Gantt vs Milestone plan
 
@@ -152,7 +146,7 @@ Celebration, raccolta risultati, rendicontazione, saldi, e **lesson learned**.
 
 ### Modifiche ad un progetto in corso
 
-Le modifiche sono costosissime, per il progetto, e costano maggiormente più avanti è la fase di esecuzione. Non si accettano le modifiche che non servono, ovvero che non aggiungono valore per il cliente o che non hanno senso. 
+Le modifiche sono costosissime, per il progetto, e costano maggiormente più avanzata è la fase di esecuzione. Non si accettano le modifiche che non servono, ovvero che non aggiungono valore per il cliente o che non hanno senso. 
 
 Ogni cambiamento impatta all'interno del triangolo **Issue-Risk-Change**. 
 
@@ -257,3 +251,4 @@ Morale: se ti coccoli uno stakeholder puoi gestirlo.
 
 Letture: "Il linguaggio del progetto" (Stefano Setti). In un banchetto di fate una fata arriva, ma non c'è posto per lei. La fata s'incavola, maledice Aurora e va via. E' uno stakeholder non identificato, non mappato, che arriva a gamba tesa a metà progetto, maledice e va via. 
 
+Software utili: Microsoft Project, ProjectLibre, Primavera $$\leftarrow$$  software specifici per PM.
