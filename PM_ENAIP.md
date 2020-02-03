@@ -252,3 +252,181 @@ Morale: se ti coccoli uno stakeholder puoi gestirlo.
 Letture: "Il linguaggio del progetto" (Stefano Setti). In un banchetto di fate una fata arriva, ma non c'è posto per lei. La fata s'incavola, maledice Aurora e va via. E' uno stakeholder non identificato, non mappato, che arriva a gamba tesa a metà progetto, maledice e va via. 
 
 Software utili: Microsoft Project, ProjectLibre, Primavera $$\leftarrow$$  software specifici per PM.
+
+
+
+# Project charter
+
+Prima di iniziare il progetto, si stabilisce la lista delle cose da fare. Ci sono un totale di 49 processi.  Assieme alla mappatura degli stakeholder, compone la fase di iniziazione. E' il documento sintetico che definisce il progetto.
+
+Schematizzato in questo modo:
+
+| Progetto               | <Titolo progetto>                                            |
+| :--------------------- | :----------------------------------------------------------- |
+| Mission                | Creazione di.. consentirà di.... Scopo totale del progetto, il problema che vuole risolvere. |
+| Obiettivi              | Qualcosa a cui è indirizzato il lavoro, una posizione da guadagnare, uno scopo da raggiungere, un risultato da ottenere, un prodotto da creare, un servizio da fornire. SMART (Specific-Measurable-Achievable?-Relevant-Timely) |
+| Deliverable            | Qualsiasi prodotto, risultato o capacità di fornire un servizio, univoco e verificabile, che deve essere realizzato per portare a termine un processo, una fase o un progetto. Solitamente deve essere approvato dallo sponsor/cliente. |
+| Esclusioni             | Cosa è escluso dal progetto                                  |
+| Stakeholder            | Sponsor, PM, Team, Iniziatore, Consulenti, altri stakeholder |
+| Ruoli e responsabilità | Sponsor (persona o gruppo che fornisce le risorse finanziarie al progetto), PM (responsabile dell'utilizzo delle risorse al fine di ottnere gli obiettivi del progetto), Consulenti (risorse umane con competenze tecniche specifiche che possono essere consultate dal PM per aver consigli sullo sviluppo del progetto) |
+| Vincoli                | Restrizioni e limitazioni. Fattori esterni, leggi, standard da rispettare, scadenze temporali, disponibilità di materie prime. |
+| Assunti                | Presupposti, presunzioni e fattori che vengono ritenuti veri, reali o certi anche se non si dispone di prove o dimostrazioni. Sono molto pericolose, se vengono lasciate non verificate. |
+| Milestone              | (M1, M2, M3.. ) Date a cui sono associati: Avvio, Kick off meeting, verifica intermedia, risultato del progetto entro... , lesson learned. |
+| Rischi                 | (R1, R2...) Elenco rischi individuati all'inizio del progetto |
+| Opportunità            | (O1, O2...) Elenco opportunità individuate all'inizio del progetto |
+| Firme per accettazione | Data, e firme di Project Manager e Sponsor                   |
+| (opz.) Budget          | Stima dell'ordine di grandezza o range di costi              |
+
+*"Il Project Management è buon senso applicato." - Dalia*
+
+Nella fase di charter i dati non saranno ancora mai completi e definiti nel dettaglio. Vanno indicati solo, a grandi linee, le informazioni disponibili a priori.
+
+Nota: per l'europrogettazione si lavora in due fasi:il primo charter include il partecipare e vincere il bando. Chiuso questo progetto, nel caso venga vinto, si creerà un secondo charter per l'esecuzione del progetto vinto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Project Charter
+
+| Progetto               | Smaltimento cadaveri                                         |
+| :--------------------- | :----------------------------------------------------------- |
+| Mission                | Escludere i due protagonisti dal qualsiasi conseguenza derivante dall'esecuzione. ( E invece la mission è "Preservare la famiglia mafiosa." La mission è sempre alta, è un principio.) |
+| Obiettivi              | Il corpo è eliminato, e nessuno viene arrestato o incriminato per l'omicidio. (Invece: "Far sparire un'auto con un cadavere, senza lasciare tracce e senza farsi scoprire, lasciando casa entro l'ora X.") |
+| Deliverable            | Valutazione problema e visione auto e relativi problemi. Tranquillizzare i presenti. Eliminazione corpo. Pulizia macchine. Assegnazione ruoli e scadenze. Vestiti e puliti? (Invece: Prima fase: pulire la macchina. <br />Seconda fase: pulire i due ed eliminare i vestiti insanguinati.<br />Terza fase: arrivati fino allo sfasciacarrozze dopo aver determinato la strada.) |
+| Esclusioni             | Assistenza psicologica ai presenti. Biancheria di ricambio. Escluse le pulizie di fino. Trasferimento al ritorno. |
+| Stakeholder            | Nomi dei presenti. Si presenta con tutti. Bonnie, che deve essere soddisfatta. Marcellus Wallace, i tre presenti. La polizia. Wolf. Lo sfasciacarrozze. I partecipanti della festa da cui vengono tutti. I vicini di casa. Netturbini (che non vedono i vestiti insanguinati). |
+| Ruoli e responsabilità | Ognuno deve fare il suo dovere come un orologio. Chi pulisce l'auto, chi trova coperte, chi porta caffè. Chi guida quale macchina fino al percorso, e cosa fare in caso di pattuglia. Monster Joe e Raquel (Fornitori esterni, ma nel team). |
+| Vincoli                | 9.30: Tempo di ritorno a casa di Bonnie.<br />Lasciare la casa pulita. |
+| Assunti                | La macchina è funzionante in modo impeccabile (Invece: che gli altri abbiano detto la verità quando si informa. Assume che troverà di detersivi ("La casa sembra in ordine, assumo che ci siano detersivi") Tutti collaboreranno in modo impeccabile. Assume che siano già stati in carcere. |
+| MilestoneClosing       | M0: Telefonata: arrivare a casa entro 30 minuti. "Ce ne metterò dieci." (Gold plating!). <br /><br />M1: si presenta a casa: 8.40<br />M2: auto pulita: 9.10<br />M3: fuori di casa: 9.30<br /> |
+| Rischi                 | L'auto si ferma per strada(Mitigato da "Si informa sulle condizioni dell'auto").<br /> Un poliziotto che guarda dentro l'auto dopo averli fermati. (Mitigato da "Dare istruzioni precise.") <br />Il fornitore Monster Joe è chiuso (Mitigato da "Chiama prima.")<br />Insubordinazione dei due (Mitigato da "Comunicazione assertiva e autoritaria")<br />Parlare in fretta, e non farsi comprendere. |
+| Opportunità            | Colazione con Raquel a fine del tutto.                       |
+
+**Scope:** Wolf fa solamente cose pertinenti allo scope. Sta mezzo metro indietro, disponendo e non eseguendo.
+
+**Schedule:** Guarda l'orologio e aggiorna tutti sui tempi.
+
+**Costs:** caso un po' particolare, diciamo budget illimitato
+
+**Quality:** controlla la qualità delle pulizie e la conformità
+
+**Resource:** gli è chiaro chi ha davanti, in che condizioni sono, e di chi avrà bisogno
+
+**Procurement:** assume che ci siano una serie di oggetti (detersivi), correndo un rischio.
+
+**Risk: ** mette in pista tutte le azioni possibili per mitigare i rischi, in primis chiedendo.
+
+**Communication:** stile di comunicazione imperativo, aggiorna tutti su tempi e risultati, garantendosi il controllo della situazione necessario. La comunicazione è sempre tempestiva, e personalizzata. Ci sono rassicurazioni. Non dice tutto a tutti. Jimmy manca in alcuni momenti (la strada da percorrere, per es.). Apprezza quando qualcuno fa un buon lavoro.  Fornisce sempre la motivazione di ogni ordine quand'è necessario. Verifica che i suoi ordini siano compresi.
+
+**Stakeholder:** tutti gestiti e presi in considerazione.
+
+**Resources:** un team ha 5 fasi:
+
+* **forming** (tutto sarà bellissimo)
+* **storming** (iniziano le magagne, litigi, conflitti e discussioni) da cui si esce con il
+* **norming**: ci diamo delle regole condivise, con lo scopo di restare più possibile nel 
+* **performing**,  in cui si lavora al meglio, per finire con
+* **adjourning**, a fine.
+
+*Pro tip: anticipare prima possibile il norming, per limitare le secche dello storming. Prima lo si fa e meglio è, perchè si possono inserire regole più solide nella fase di forming. Chi fa cosa, come risolveremo i conflitti, chi fa meglio cosa, se ci sono facilitatori, se un membro viene meno ad un suo compito, ecc.*
+
+Ma sopra tutto: **Integration:** Fa il project manager. Dispone, controlla, motiva, ispira, ribadisce, spiega. Dà informazioni. Mette pressione.
+
+### Le 5 fasi del life cycle.
+
+* **Initiation**: la telefonata con cui Wallace lo chiama.
+* **Pianificazione**: mentre arriva in macchina, a cui segue il suo arrivo a casa ovvero il kick off meeting. E' già preparato sulla situazione e ha un piano.
+* **Esecuzione**, in cui vengono svolti i lavori.
+* **Monitoraggio e controllo**: costante flusso di domande, e verifiche.
+* **Closing**: alla fine.
+
+*pro tip: non innamoratevi mai della vostra idea come PM. Siate sempre pronti a spostarvi di prospettiva, e vedere la cosa da altri punti di vista. Siate pronti a cambiarla.*
+
+# Pianificazione
+
+Il primo strumento non è un quando, ma un cosa. E' il **Work Breakdown Structure (WBS)**.  Conviene sempre aggiungere un deliverable "Progetto gestito". Sotto il titolo c'è il livello dei **deliverable**. Al livello sottostante, ci sono i **Work Packages**. Deve assolutamente contenere il 100% del lavoro da fare, ovvero tutto ciò che è in scope. Se non è in WBS, non va fatto. Non è importante la dimensione temporale, per ora. Il QC viene sempre fatto da altre persone (sponsor, ecc),e non da chi ha svolto il lavoro, in teoria.
+
+### Work Breakdown Structure per mr. Wolf:
+
+```mermaid
+graph LR
+
+a[Smaltimento<br> Auto con <br>Cadavere senza<br> lasciare traccia] --> b[Macchina <br>ripulita e <br>risistemata]
+a --> c[Scagnozzi <br>puliti <br>e rivestiti]
+a --> d[Auto <br>consegnata]
+a--> e[Tracce <br>eliminate]
+a --> f(Progetto <br>gestito) 
+
+b --> b1[Detersivi <br> resi disponibili]
+b --> b2[Tappezzeria <br> individuata]
+b --> b3[Cadavere <br> spostato]
+b --> b4[Pulizie<br>svolte]
+b --> b5[QC OK]
+
+c--> c1[Strumenti<br>reperiti]
+c--> c2[Nuovi<br>vestiti<br>raccolti]
+c--> c3[Doccia<br>effettuata]
+c--> c4[QC OK]
+
+d--> d1[Auto pronta<br>all'uso]
+d--> d2[Itinerario<br>deciso]
+d--> d3[Monster Joe<br>disponibile]
+d--> d4[Percorso<br>effettuato]
+
+e --> m[Resti<br>rimossi]
+e --> m2[Vestiti<br>smaltiti]
+e --> m3[Casa<br>riordinata]
+
+f --> f1[Team<br>formato]
+f --> f2[Opportunità<br>gestite]
+f --> f3[Rischi<br>controllati]
+f --> f4[Trasporti<br>organizzati]
+f --> f5[Budget<br>gestito]
+f --> f6[...]
+```
+
+Ogni work package va poi scomposto a piacere in attività (verbi all'infinito) con l'esploso delle cose da fare. Un WP è solitamente assegnabile ad una persona. Esplodere un WP vuol dire definire le attività:
+
+```mermaid
+graph LR
+
+a[pulizie svolte] --> a1[prendere detersivi]
+l[...] --> a
+a --> a2[prendere la spugna]
+a --> a3[...]
+```
+
+Si possono svolgere in modo **deliverable oriented** oppure  **phase oriented**. 
+
+Come verifica si può rimuovere il nome del progetto, chiamare qualcuno e chiedere di cos'è la WBS: dovrebbe risultare intuitivo capire quale sarà il risultato leggendo il resto del diagramma. La WBS è considerata uno strumento tecnico e di comunicazione: una WBS parla, può essere mostrata ad uno sponsor per verificare che ci sia tutto, può essere usate per cronoprogrammi un po' più snelli. 
+
+*pro tip: tenere sott'occhio le cose: alcuni programmi hanno dashboard per visibilità simultanea. Altri strumenti conviene tenerli a muro e guardarli sempre.*
+
+## Lesson Learned
+
+Lezioni imparate, vanno stilate sempre a fine progetto. Distillano la conoscenza acquisita, per evitare di ripetere in futuro gli stessi errori.
+
+* cos'abbiamo fatto bene, e perciò rifaremo? (analisi del video, lavagna recuperata, collaborazione incentivata tra team...)
+* cosa potevamo fare meglio o diversamente? (potevamo verificare prima che ci fossero i materiali per scrivere, fogli e pennarelli; condividere di più le rispettive diverse esperienze; condividere prima materiale corso
+
+*pro tip: far facilitare la lesson learned a qualcun altro del team, per evitare di mettere in soggezione qualcuno del team.*
+
+Si possono poi aggiungere altre domande a piacere. Esiste poi una modalità retrospettiva, propria dei metodi *agile*.
+
+
+
+
+
